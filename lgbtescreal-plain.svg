@@ -13,9 +13,9 @@
 	</defs>
 	<rect id="bkg" width="424" height="424"/>
 	<g id="compass-trans" clip-path="url(#compass-clip)">
-		<rect fill="#5BCEFA" id="trans-blue" width="56.861702" height="248.32574" x="181.97802" y="87.215426"/>
-		<rect fill="#F5A9B8" id="trans-pink" width="176.13803" height="146.37447" x="122.881774" y="138.96846"/>
-		<rect fill="#FFF" id="trans-white" width="260.09787" height="52.489067" x="87.753994" y="185.18551" />
+		<rect fill="#5BCEFA" id="trans-blue" width="50" height="260" x="187" y="82"/>
+		<rect fill="#F5A9B8" id="trans-pink" width="144" height="144" x="140" y="140"/>
+		<rect fill="#FFF" id="trans-white" width="260" height="50" x="82" y="187" />
 	</g>
 	<g id="gear" mask="url(#gear-mask)">
 		<path id="wedge-2" d="M212,212 433.7025,74 433.7025,350 Z" fill="#FF8D00" />
