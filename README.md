@@ -1,6 +1,6 @@
 # LGBTESCREAL
 
-SVG file for an "LGBTESCREAL" symbol.
+SVG files for an "LGBTESCREAL" symbol.
 
 LGBTESCREAL is a fusion of the acronyms [LGBT](https://en.wikipedia.org/wiki/LGBTQ) and [TESCREAL](https://en.wikipedia.org/wiki/TESCREAL).
 
