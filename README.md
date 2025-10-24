@@ -10,4 +10,22 @@ The symbol was originally designed by @tetraspace, @dawnlightmelody, and @kalama
 
 ## Variations
 
-lgbtescreal-plain.svg is the original symbol or so. lgbtescreal-transparent.svg is a semi-transparent version of it. lgbtescreal-involute-12.svg uses an involute-ish 12-toothed gear shape from [Nevit Dilmen's public domain image](https://commons.wikimedia.org/wiki/File:Gears.svg). lgbtescreal-gilbert-baker.svg uses the 8-stripe Gilbert Baker flag and an involute-ish 16-toothed gear shape from the same source.
+![plain](lgbtescreal-plain.svg)
+
+[lgbtescreal-plain.svg](lgbtescreal-plain.svg) is approximately the original symbol. 
+
+![transparent](lgbtescreal-transparent.svg)
+
+[lgbtescreal-transparent.svg](lgbtescreal-transparent.svg) is a semi-transparent version. 
+
+![involute](lgbtescreal-involute-12.svg)
+
+[lgbtescreal-involute-12.svg](lgbtescreal-involute-12.svg) uses an involute-ish 12-toothed gear shape from [Nevit Dilmen's public domain image](https://commons.wikimedia.org/wiki/File:Gears.svg).
+
+![Gilbert Baker](lgbtescreal-gilbert-baker.svg)
+
+[lgbtescreal-gilbert-baker.svg](lgbtescreal-gilbert-baker.svg) uses the 8-stripe Gilbert Baker flag and an involute-ish 16-toothed gear shape from the same source.
+
+![pendant](lgbtescreal-pendant-shape.svg)
+
+[lgbtescreal-pendant-shape.svg](lgbtescreal-pendant-shape.svg) is a colorless design for physical output. It uses the same involute-ish 16-toothed gear shape as the Gilbert Baker version, but differently scaled and rotated relative to the compass rose, and with an added hole for string.
